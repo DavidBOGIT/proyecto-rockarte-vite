@@ -1,0 +1,35 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    background-color: #000000;
+    color: #fff;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    left: 0;
+}
+
+.footer-left p {
+    margin: 0;
+}
+
+.footer-right {
+    display: flex;
+    gap: 25px;
+}
+
+.social-icon {
+    color: #ffffff;
+    font-size: 1.5rem;
+    transition: color 0.3s ease;
+}
+
+.social-icon:hover {
+    color: #7771be;
+}
+
+.p {
+    margin-top: 10px;
+}
