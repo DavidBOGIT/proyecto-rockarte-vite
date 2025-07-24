@@ -9,7 +9,7 @@ Este repositorio contiene el sitio web oficial de **Rockarte**, un emprendimient
 - CSS3
 - JavaScript
 - React
-- (Agrega más si usaste librerías como Tailwind, Bootstrap, etc.)
+- Bootstrap, Tailwind,
 
 ## 📌 Funcionalidades principales
 
